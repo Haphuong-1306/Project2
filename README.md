@@ -22,7 +22,7 @@ Hệ thống bán sách online cho phép khách hàng chọn những cu�
 
 ```bash
 git clone https://github.com/Haphuong-1306/Project2
-cd 25_trungtv
+cd src
 ```
 
 Để cài đặt  Data Labelling Platform ta thực hiện như sau:
