@@ -21,7 +21,7 @@ Hệ thống bán sách online cho phép khách hàng chọn những cu�
 Để cài đặt, việc đầu tiên cần làm là sao chép các kho dữ liệu bằng câu lệnh sau:
 
 ```bash
-git clone https://gitlab.com/is_soict/it4421_20191/25_trungtv.git
+git clone https://github.com/Haphuong-1306/Project2
 cd 25_trungtv
 ```
 
